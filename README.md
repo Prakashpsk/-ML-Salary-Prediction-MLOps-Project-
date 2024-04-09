@@ -1,4 +1,7 @@
 # 💼 CareerBoost: Empowering Employment Equity with ML Salary Prediction
+
+![](https://github.com/Prakashpsk/-ML-Salary-Prediction-MLOps-Project-/blob/main/salarypicture.jpeg)
+
 📊 In this project, we aim to build and deploy a machine learning model for salary prediction using the Adult Salary Prediction dataset from the 1994 US Census. The goal is to predict whether a person earns over $50K a year (Class 1) or less than $50K a year (Class 0). We will utilize AWS SageMaker for model building and deployment, creating a Serverless Inference Endpoint.
 
 ## Skills/Concepts Developed
